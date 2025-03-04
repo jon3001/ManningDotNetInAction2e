@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "04.2a_GetJokes": {
+      "commandName": "Project",
+      "commandLineArgs": "joke_index.json"
+    }
+  }
+}

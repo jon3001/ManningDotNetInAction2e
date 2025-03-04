@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Awesome Programmer",
+  "classifications": [ "Console" ],
+  "name": "Console with arguments",
+  "identity": "04.1_ConsoleTemplate",
+  "shortName": "consoleargs",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "04.1_ConsoleTemplate",
+  "preferNameDirectory": true
+}

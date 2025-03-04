@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HelloDotNet": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Hello, .NET\""
+    }
+  }
+}
